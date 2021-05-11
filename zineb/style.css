@@ -1,0 +1,93 @@
+header {
+  text-align: center;
+  padding: 40px;
+}
+.content {
+  max-width: 800px;
+  margin: 0px auto;
+}
+header h2 {
+  color: rgb(4, 117, 186);
+}
+header img {
+  width: 150px;
+  border-radius: 75px;
+  box-shadow: 3px 3px 6px rgb(170, 170, 170);
+}
+body {
+  font-family: Arial;
+  margin: 0px;
+}
+nav {
+  display: flex;
+  height: 70px;
+}
+.secondary-block {
+  color: white;
+  background-color: rgb(4, 117, 186);
+}
+a {
+  color: white;
+}
+nav h2 {
+  margin: 0px;
+  padding: 20px 0px 20px 15px;
+}
+nav ul {
+  display: flex;
+  margin: 0px;
+  padding: 24px;
+  list-style: none;
+}
+
+nav li {
+  margin-left: 15px;
+}
+
+section {
+  padding: 40px;
+}
+
+#xp ul {
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+}
+
+#xp li {
+  margin: 0px, 0px, 10px;
+}
+
+#xp aside {
+  float: right;
+}
+
+#education ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#education li {
+  margin-bottom: 10px;
+}
+
+#education aside {
+  float: right;
+}
+
+footer {
+  padding: 40px;
+}
+
+footer ul {
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+}
+
+.links {
+  margin-bottom: 25px;
+  width: 390px;
+  display: inline-block;
+}
